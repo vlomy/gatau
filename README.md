@@ -337,8 +337,8 @@ body {
         </div>
 
         <div class="five">
-            <p class="idea-1">Asli gengsi parah sebenarnya</p>
-            <p class="idea-2">Tapi saya romantis yagesya.</p>
+            <p class="idea-1">I love you kak al</p>
+            <p class="idea-2">I want the best for you</p>
             <p class="idea-3">
                 Aku pengen ngasih kamu sesuatu yang..<br>
                 <strong>special</strong>
